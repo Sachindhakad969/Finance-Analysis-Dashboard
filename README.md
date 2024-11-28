@@ -2,7 +2,7 @@
 Financial Management
 Project Title: Comprehensive Financial Analysis for Enhanced Decision-Making
 Project Overview:
-The Finance Analysis project aims to systematically evaluate the financial performance of [Company/Organization Name] through a detailed examination of its financial statements, key performance indicators (KPIs), and market conditions. This project seeks to provide insights that will inform strategic planning, optimize resource allocation, and enhance overall financial health.
+The Finance Analysis project aims to systematically evaluate the financial performance of Company/Organization through a detailed examination of its financial statements, key performance indicators (KPIs), and market conditions. This project seeks to provide insights that will inform strategic planning, optimize resource allocation, and enhance overall financial health.
 
 Objectives:
 Financial Statement Analysis: Conduct an in-depth review of the company’s income statement, balance sheet, and cash flow statement to assess profitability, liquidity, and solvency.
