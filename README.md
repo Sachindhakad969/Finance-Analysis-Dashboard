@@ -24,7 +24,7 @@ Strategic Recommendations: Provide actionable recommendations based on the analy
 Key Components:
 Data Collection: Gather financial data from internal systems, historical records, and market research to ensure a robust analysis.
 
-Analytical Tools: Utilize software tools such as Excel, R, or Python for data analysis, modeling, and visualization, ensuring accuracy and efficiency in the analysis process.
+Analytical Tools: Utilize software tools such as Power BI, Excel, R, or Python for data analysis, modeling, and visualization, ensuring accuracy and efficiency in the analysis process.
 
 Stakeholder Engagement: Collaborate with finance teams, department heads, and executive leadership to align the analysis with organizational goals and gather insights on operational performance.
 
